@@ -1,0 +1,2 @@
+# Ternary_Operator
+JavaScript
